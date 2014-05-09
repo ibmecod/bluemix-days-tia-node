@@ -2,4 +2,4 @@
 /* Copyright IBM Corp. 2013 All Rights Reserved                      */
 /*-------------------------------------------------------------------*/
 
-return require("./lib/cli").run()
+require("./lib/cli").run()
