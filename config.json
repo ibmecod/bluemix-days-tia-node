@@ -1,11 +1,11 @@
 {
    "comment":		 	  "sample config.json file",
    "twitter": {
-      "consumer_key":	  "API Key",
-      "consumer_secret":  "API Secret"
+      "consumer_key":	  "ssdEd7VPqPviLwCHUQNA",
+      "consumer_secret":  "EjWvWH9zHlZebGhhNFDsbSyKBbj4xMwNgS580JKhM"
    },
    
    "klout": {
-      "developer_key":		"developer key"
+      "developer_key":		"u9ntwh7pdyda7dpcm3mz646r"
     }
 }
