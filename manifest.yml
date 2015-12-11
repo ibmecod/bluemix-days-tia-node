@@ -1,4 +1,9 @@
 ---
+declared-services:
+  mongodb-tia-node: #Needed for one click deployment. See https://www.ng.bluemix.net/docs/manageapps/deployingapps.html#deploy_button
+    label: mongodb
+    plan: 100
+
 applications: #Reference http://docs.cloudfoundry.com/docs/using/deploying-apps/manifest.html
 - name: tia_node #Application Name. Unique to the user's Space
   memory: 256M #The maximum memory to allocate to each application instance
