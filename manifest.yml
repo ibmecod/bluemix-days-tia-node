@@ -1,6 +1,6 @@
 ---
 declared-services:
-  mongodb-tia-node: #Needed for one click deployment. See https://www.ng.bluemix.net/docs/manageapps/deployingapps.html#deploy_button
+  mongodb-tia-node: #Needed for one click deployment. See https://www.ng.bluemix.net/docs/manageapps/deployingapps.html
     label: mongodb
     plan: 100
 
