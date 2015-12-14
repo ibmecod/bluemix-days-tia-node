@@ -14,5 +14,5 @@ applications: #Reference http://docs.cloudfoundry.com/docs/using/deploying-apps/
 #  path: . #Path to the application to be pushed
   command: node app.js #The command to use to start the application
   services:
-     mongodb-tia-node: #Identifier for Mongodb Bound Service instance
+  - mongodb-tia-node: #Identifier for Mongodb Bound Service instance
 
