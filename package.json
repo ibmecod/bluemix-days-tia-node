@@ -1,9 +1,6 @@
 {
     "name":                     "bluemix-sample-tia-node",
     "version":                  "0.1.0",
-    "engines": {
-        "node":                 "0.8.x"
-    },
     "scripts": {
         "start":                "node lib/cli.js"
     },
