@@ -124,6 +124,10 @@ In the terminal, go to the directory of your app and follow these steps:
 
 That's it! For instructions on usage, please see [Using the App from the Browser](#using-the-app-from-the-browser) or just head over to your app's URL (such as http://tia-&lt;username&gt;.ng.bluemix.net) to start exploring!
 
+### One click deployment ###
+You can auto deploy this project to your Bluemix by clicking this deploy button. No changes are needed to use this deployment.
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
+
 
 ## Using the App from the Browser ##
 
